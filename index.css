@@ -1,0 +1,49 @@
+.my-navbar {
+    box-shadow: 0px 10px 30px rgba(216, 216, 216, 0.45);
+    width: 100%;
+    font-size: 14px;
+    color: #77858B;
+}
+
+.nav-item {
+    font-weight: 150;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    border-bottom: 4px solid white;
+    margin-right: 24px;
+    transition: 0.3s ease;
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+.contact-us {
+    font-weight: 450;
+    color: #08344B;
+}
+
+.nav-active a {
+    color: black !important;
+    font-weight: 600;
+}
+
+.banner-text {
+    background: linear-gradient(90deg, #F6F4F5 60%, #fff 50%);
+    height: 700px;
+}
+
+.carousel-item img {
+    width: 650px;
+    height: 550px;
+}
+
+.logo {
+    color: black !important;
+    font-size: 26px;
+}
